@@ -1,0 +1,58 @@
+{
+    "up_id": [
+        1,
+        2
+    ],
+    "up_name": [
+        "Machine Learning",
+        "Web Development"
+    ],
+    "up_desc": [
+        "Learn about various ML real-time services",
+        "Learn to master front end and backend."
+    ],
+    "up_date": [
+        "20th May 2021",
+        "25th Dec 2021"
+    ],
+    "up_time": [
+        "9 AM to 12 Noon",
+        "10 AM to 1 PM"
+    ],
+    "up_mode": [
+        "Online",
+        "Offline"
+    ],
+    "up_location": [
+        "Google Meet",
+        "Kolkata, India"
+    ],
+    "up_speakers": [
+        "Amit Kumar,Rohit Kumar,Ajit Kumar",
+        "Rohan,Raj,Ramanujam"
+    ],
+    "up_prerequire": [
+        "No Prior knowledge needed.",
+        "Basic knowledge of HTML"
+    ],
+    "up_note": [
+        "",
+        "Event can be delayed for half an hour due to traffic in the city."
+    ],
+    "up_reglink": [
+        "https://www.google.com",
+        "https://www.gmail.com"
+    ],
+    "up_lastreg": [
+        "10th Dec 2020",
+        "12th Aug 2020"
+    ],
+    "up_regstatus": [
+        "Open",
+        "Closed"
+    ],
+    "up_banner": [
+        "https://velocityglobal.com/wp-content/uploads/2019/02/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
+        "https://webdev.imgix.net/live/banner.png"
+    ]
+}

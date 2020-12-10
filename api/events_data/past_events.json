@@ -1,0 +1,58 @@
+{
+    "past_id": [
+        1,
+        2
+    ],
+    "past_name": [
+        "Machine Learning",
+        "Web Development"
+    ],
+    "past_desc": [
+        "Learn about various ML real-time services",
+        "Learn to master front end and backend."
+    ],
+    "past_date": [
+        "20th May 2021",
+        "25th December 2021"
+    ],
+    "past_time": [
+        "9 AM to 12 Noon",
+        "10 AM to 1 PM"
+    ],
+    "past_mode": [
+        "Online Webinar",
+        "Offline Mode"
+    ],
+    "past_location": [
+        "Google MEET",
+        "Kolkata"
+    ],
+    "past_speakers": [
+        "Amit,Rohit,Ajit",
+        "Rohan,Raj,Ramanujam"
+    ],
+    "past_prerequire": [
+        "No Prerequsite",
+        "Basic knowledge of HTML"
+    ],
+    "past_note": [
+        "NA",
+        "Event can be delayed for half an hour due to traffic in the city."
+    ],
+    "past_reglink": [
+        "google/forms/fdgdeyde333d",
+        "google/forms/edeu3rt37gde"
+    ],
+    "past_lastreg": [
+        "10th Dec 2020",
+        "12th Aug 2020"
+    ],
+    "past_regstatus": [
+        "Open",
+        "Closed"
+    ],
+    "past_banner": [
+        "https://www.smartdatacollective.com/wp-content/uploads/2019/12/maching-learning-and-contract-management.jpg",
+        "https://webdev.imgix.net/images/social.png?auto=format&fit=max&w=1200"
+    ]
+}

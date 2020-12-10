@@ -1,0 +1,83 @@
+{
+    "id": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ],
+    "name": [
+        "Anjali Jha",
+        "Anushka Sinha",
+        "Ashutosh Krishna",
+        "Ayush Singh",
+        "Rajwrita Nath",
+        "Rishiraj Acharya",
+        "Ritesh Prasad Singh",
+        "Satish Singh",
+        "Saurav Kumar",
+        "Shailly Keshari",
+        "Sucheta Nandy",
+        "Vishwajeet Raj"
+    ],
+    "designation": [
+        "Competitive Programming Team",
+        "GCP Crash Course Facilator",
+        "App Team",
+        "App Team",
+        "Lead 2020 & ML Team",
+        "Machine Learning Team",
+        "Design Team",
+        "Web Team",
+        "App Team",
+        "Women Tech Lead",
+        "Outreach Team",
+        "Web Team"
+    ],
+    "desc": [
+        "","","","","","","","","","","",""
+    ],
+    "skills": [
+        "","","","","","","","","","","",""
+    ],
+    "dp": [
+        "","","","","","","","","https://raw.githubusercontent.com/dscnsec/people/master/2022/SauravKumar.jpg","","",""
+    ],
+    "email": [
+        "","","","","","","","","","","",""
+    ],
+    "alt_email": [
+       "","","","","","","","","","","",""
+    ],
+    "stream": [
+        "CSE","IT","IT","IT","CSE","CSE","IT","IT","CSE","CSE","CSE","IT"
+    ],
+    "linkedin": [
+        "","","","","","","","","https://www.linkedin.com/in/saurav0001kumar/","","",""
+    ],
+    "github": [
+        "","","","","","","","","https://github.com/saurav0001kumar","","",""
+    ],
+    "website": [
+        "","","","","","","","","","","",""
+    ],
+    "blog": [
+       "","","","","","","","","","","",""
+    ],
+    "facebook": [
+        "","","","","","","","","","","",""
+    ],
+    "twitter": [
+        "","","","","","","","","","","",""
+    ],
+    "instagram": [
+        "","","","","","","","","","","",""
+    ]
+}
