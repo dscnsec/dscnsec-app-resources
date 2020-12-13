@@ -42,42 +42,185 @@
         "Web Team"
     ],
     "desc": [
-        "","","","","","","","","","","",""
+        "My name is Anjali Jha and I am a 3rd-year undergraduate. I am a web developer and take an interest in competitive coding as well. DSC NSEC has been a constant source of learning and motivation for me since the time it was formed. The members are always the happiest to help even when in the smallest of problems and this is exactly the kind of environment where one grows and prospers.",
+        "Hello, I am Anuska Sinha, a 3rd Year undergraduate from the IT Department. I have been a part of DSC NSEC from my very first days of college in my 1st year. Since then it has been a great journey of learning and gaining knowledge from incredible people. I am a part of the designing team and I was the facilitator of the Data Science track in the GCP Crash Course. I am very enthusiastic about ML, AI and Web Development. My special interest lies in Ethical Hacking. It has always been a great thing to be a part of the DSC NSEC Community as it helps you grow together and meet with amazing colleagues and seniors who are ready to help you at every step in your way to success and growth in life.",
+        "Hey, I am Ashutosh Krishna, a 3rd year IT undergraduate. Currently, I am learning and applying my skills as a Backend Developer using Django(Python) as well as NodeJS. The love for App Development landed me in the DSC App Team and the journey has been amazing with my incredible team. In my free time, I love exploring new technologies like Data Science and Machine Learning. I had always wished to join this community from my very first days of college. Looking forward to learning and grow together with this amazingly supportive community.",
+        "I am a 3rd-year student, pursuing a Bachelor's in Technology in Information Technology. I am a Flutter enthusiast/developer, Web developer, and a UI/UX designer. A coder by day, DJ by night. My tech-stack comprises of C, Python, HTML5, CSS3, JavaScript, and Dart. I am a contributing writer at Analytics Vidhya, and also a Moderator at Manning Publications. I am an active member and a volunteer at GDG Kolkata, and WTM Kolkata, which keeps me technically sound and updated. I have also volunteered in technical events such as Kolkata Kreate organized by GDG Kolkata and WTM Kolkata, as a photographer.",
+        "Rajwrita is the Google Women Techmakers Scholar 2020. She is also an active volunteer for Google Developer Group Kolkata and Women Techmakers Kolkata. Rajwrita is an International Rank Holder in Mathematics Olympiad and quite obviously has a keen interest in Mathematics and Statistics. She loves to explore in the world of Machine Learning and AI and wishes to contribute to these domains of tech. Apart from that she has completed 12 years in Bharatnatyam and holds a passion for all things art and music. She loves talking and spreading knowledge amongst her peers and loves to excel in whichever field she finds herself in. When not the smartest, she always believes in being the hardest working individual in the room.",
+        "Rishiraj Acharya is an Instructor at Stanford University for the course CS106A. He has worked as a Machine Learning Engineer and specializes in the application of Deep Learning. His long term mission is to use AI in Medicine and Healthcare that will be used routinely for diagnosis, prognosis, and treatment of patients. Rishiraj loves utilizing his time in helping his peers learn, connect and grow as a community. He is a Microsoft Student Partner, a deeplearning.ai Ambassador and an active volunteer for Google Developer Group Kolkata. Rishiraj loves taking sessions and speaking at various conferences for promoting student knowledge on developer products and platforms.",
+        "Hey there, I am Ritesh Prasad Singh from the Department of Information Technology currently in my 3rd year of this course. I joined DSC when I was in my 1st year. I am a UI/UX Designer and a Front-end Web Developer. Other than these I am passionate in the areas of Data Science and Machine Learning. I am currently working on searching algorithms and data visualization. Being one of the DSC NSEC members I could both contribute and learn at the same time.",
+        "Hi! I am Satish Kumar Singh, 3rd year IT Undergrad of Netaji Subhash Engineering College. I am a front-end developer, a tech-savvy person, and proficient in React JS and React Native. In my two years of college life, I tried to gain hands-on experience in HTML, CSS, Figma, and other tools and languages. Right now, I am focussing on diving deeper into React JS and planning to build unique and user-friendly websites that will help the society. I have leadership skills as well. I love to work in a team and guide it when necessary.",
+        "Saurav Kumar is currently pursuing B.Tech in Computer Science & Engineering (CSE) from Netaji Subhash Engineering College. He is currently working in the field of App Development. In this field, he has created some nice android apps/games and developed an desktop app for Windows OS. He is also interested in coding (problem-solving) and web development (django) using python. All his contributions and projects can be found on his github. At Netaji Subhash Engineering College, Saurav, learned the importance of applying his skills and techniques to modern strategies from experts in the field. He is moving forward to evolve new technologies to solve the real-life issues faced by the people all over the world. He believes that self-experience creates our own definitions to see at things and helping others can boost our level of performance.",
+        "I am Shailly Keshari, currently pursuing a B.Tech in Computer Science and Engineering. My fields of interest include Machine Learning, Astronomy, and Physics. I am deeply passionate about science, art, technology, and music. It is my constant effort to seek out new learning opportunities and strive for improvement. I firmly believe in striving to create a positive impact on society with whatever I do. My journey at DSC NSEC has been a great learning experience. It is a community of highly enthusiastic, diligent, and helpful people, and space for all to grow.",
+        "Hello, I am Sucheta Nandy, a 3rd year CSE undergraduate studying at Netaji Subhash Engineering College. I have been doing Machine Learning and Deep Learning related projects for a year now. I can code in C and python with quite a proficiency. In my free time, I love painting, playing sports(cricket especially), and listening to music. I am a hard-working person who loves to be punctual and obey rules diligently. I am a keen and fast learner and I am always ready to boost my knowledge in every aspect of life.",
+        "My name is Vishwajeet Raj, and I am an IT undergraduate student, currently in my 3rd year of engineering. I am a UI/UX Designer, Front-end Web Developer. My technology stack includes HTML5, CSS3, Javascript, Node.js, MongoDB, Express, C. I've been a graphic designer and a web developer for a year now also developed some cool projects. I am currently working as a graphic designer for Developers Student Club NSEC and Google Developers Group, Kolkata. Also, I am a volunteer at GDG Kolkata."
     ],
     "skills": [
-        "","","","","","","","","","","",""
+        "C,C++,Python,Java",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "C,Java,Python,Flutter,MySQL,Django",
+        "",
+        "",
+        ""
     ],
     "dp": [
-        "","","","","","","","","https://raw.githubusercontent.com/dscnsec/people/master/2022/SauravKumar.jpg","","",""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://raw.githubusercontent.com/dscnsec/people/master/2022/SauravKumar.jpg",
+        "",
+        "",
+        ""
     ],
     "email": [
-        "","","","","","","","","","","",""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     "alt_email": [
-       "","","","","","","","","","","",""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     "stream": [
-        "CSE","IT","IT","IT","CSE","CSE","IT","IT","CSE","CSE","CSE","IT"
+        "CSE",
+        "IT",
+        "IT",
+        "IT",
+        "CSE",
+        "CSE",
+        "IT",
+        "IT",
+        "CSE",
+        "CSE",
+        "CSE",
+        "IT"
     ],
     "linkedin": [
-        "","","","","","","","","https://www.linkedin.com/in/saurav0001kumar/","","",""
+        "https://www.linkedin.com/in/anjali-jha-1903/",
+        "https://www.linkedin.com/in/anuska-sinha-039002160/",
+        "https://www.linkedin.com/in/ashutoshkrris/",
+        "https://www.linkedin.com/in/ayush-singh-5823a5180/",
+        "https://www.linkedin.com/in/rajwrita-nath/",
+        "https://www.linkedin.com/in/rishirajacharya/",
+        "https://www.linkedin.com/in/ritesh-prasad-singh-a4321b148/",
+        "https://www.linkedin.com/in/srpsatish/",
+        "https://www.linkedin.com/in/saurav0001kumar/",
+        "https://www.linkedin.com/in/shaillykeshari/",
+        "https://www.linkedin.com/in/sucheta-nandy-a79605180/",
+        "https://www.linkedin.com/in/vishwajeetraj11"
     ],
     "github": [
-        "","","","","","","","","https://github.com/saurav0001kumar","","",""
+        "https://github.com/anjali1903",
+        "https://github.com/theslytherin",
+        "https://github.com/ashutoshkrris",
+        "https://github.com/ayush-670",
+        "https://github.com/rajwrita",
+        "https://github.com/rishiraj-acharya",
+        "https://github.com/Riteshpdsingh",
+        "https://github.com/srpsatish",
+        "https://github.com/saurav0001kumar",
+        "https://github.com/shaillykeshari",
+        "https://github.com/sucheta-nandy",
+        "https://github.com/vishwajeetraj11"
     ],
     "website": [
-        "","","","","","","","","","","",""
+        "",
+        "https://theslytherin.github.io/who_am_i/",
+        "http://ashutoshkrris.herokuapp.com/",
+        "https://ayush-670.github.io/",
+        "https://rajwrita.github.io/",
+        "https://rishiraj-acharya.github.io/info/",
+        "https://chafer.dscnsec.com/",
+        "https://srpsatish.live/",
+        "https://saurav0001kumar.ml/",
+        "",
+        "",
+        "https://vishwajeetraj11.github.io/portfolio/"
     ],
     "blog": [
-       "","","","","","","","","","","",""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://medium.com/@rishirajacharya",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     "facebook": [
-        "","","","","","","","","","","",""
+        "https://www.facebook.com/anjali.jha1903",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     "twitter": [
-        "","","","","","","","","","","",""
+        "",
+        "https://twitter.com/the_slytherin19",
+        "https://twitter.com/ashutoshkrris",
+        "https://twitter.com/ahyush_670",
+        "https://twitter.com/rajwrita",
+        "https://twitter.com/RishirajAcharya",
+        "https://twitter.com/Ritesh_chafer",
+        "https://twitter.com/srpsatish",
+        "",
+        "",
+        "https://twitter.com/NandySucheta",
+        "https://twitter.com/vishwajeet323"
     ],
     "instagram": [
-        "","","","","","","","","","","",""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ]
 }
