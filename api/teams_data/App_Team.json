@@ -1,0 +1,82 @@
+{
+    "id": [
+        1,
+        2,
+        3
+    ],
+    "name": [
+        "Ashutosh Krishna",
+        "Ayush Singh",
+        "Saurav Kumar"
+    ],
+    "designation": [
+        "App Team",
+        "App Team",
+        "App Team"
+    ],
+    "desc": [
+        "Hey, I am Ashutosh Krishna, a 3rd year IT undergraduate. Currently, I am learning and applying my skills as a Backend Developer using Django(Python) as well as NodeJS. The love for App Development landed me in the DSC App Team and the journey has been amazing with my incredible team. In my free time, I love exploring new technologies like Data Science and Machine Learning. I had always wished to join this community from my very first days of college. Looking forward to learning and grow together with this amazingly supportive community.",
+        "I am a 3rd-year student, pursuing a Bachelor's in Technology in Information Technology. I am a Flutter enthusiast/developer, Web developer, and a UI/UX designer. A coder by day, DJ by night. My tech-stack comprises of C, Python, HTML5, CSS3, JavaScript, and Dart. I am a contributing writer at Analytics Vidhya, and also a Moderator at Manning Publications. I am an active member and a volunteer at GDG Kolkata, and WTM Kolkata, which keeps me technically sound and updated. I have also volunteered in technical events such as Kolkata Kreate organized by GDG Kolkata and WTM Kolkata, as a photographer.",
+        "Saurav Kumar is currently pursuing B.Tech in Computer Science & Engineering (CSE) from Netaji Subhash Engineering College. He is currently working in the field of App Development. In this field, he has created some nice android apps/games and developed an desktop app for Windows OS. He is also interested in coding (problem-solving) and web development (django) using python. All his contributions and projects can be found on his github. At Netaji Subhash Engineering College, Saurav, learned the importance of applying his skills and techniques to modern strategies from experts in the field. He is moving forward to evolve new technologies to solve the real-life issues faced by the people all over the world. He believes that self-experience creates our own definitions to see at things and helping others can boost our level of performance."
+    ],
+    "skills": [
+        "C,Java,Python,Flutter,MySQL,Django",
+        "C,Java,Python,Flutter,MySQL,Django",
+        "C,Java,Python,Flutter,MySQL,Django"
+    ],
+    "dp": [
+        "",
+        "",
+        "https://raw.githubusercontent.com/dscnsec/people/master/2022/SauravKumar.jpg"
+    ],
+    "email": [
+        "",
+        "",
+        ""
+    ],
+    "alt_email": [
+        "",
+        "",
+        ""
+    ],
+    "stream": [
+        "IT",
+        "IT",
+        "CSE"
+    ],
+    "linkedin": [
+        "https://www.linkedin.com/in/ashutoshkrris/",
+        "https://www.linkedin.com/in/ayush-singh-5823a5180/",
+        "https://www.linkedin.com/in/saurav0001kumar/"
+    ],
+    "github": [
+        "https://github.com/ashutoshkrris",
+        "https://github.com/ayush-670",
+        "https://github.com/saurav0001kumar"
+    ],
+    "website": [
+        "http://ashutoshkrris.herokuapp.com/",
+        "https://ayush-670.github.io/",
+        "https://saurav0001kumar.ml/"
+    ],
+    "blog": [
+        "",
+        "",
+        ""
+    ],
+    "facebook": [
+        "",
+        "",
+        ""
+    ],
+    "twitter": [
+        "https://twitter.com/ashutoshkrris",
+        "https://twitter.com/ahyush_670",
+        ""
+    ],
+    "instagram": [
+        "",
+        "",
+        ""
+    ]
+}
