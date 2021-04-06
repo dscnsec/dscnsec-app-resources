@@ -4,27 +4,27 @@
         2
     ],
     "past_name": [
-        "Machine Learning",
-        "Web Development"
+        "30daysofGoogleCloud",
+        ""
     ],
     "past_desc": [
-        "Learn about various ML real-time services",
-        "Learn to master front end and backend."
+        "Gear up for 30 days of Google Cloud Program!🎉 Get a chance to kickstart your career in cloud and get hands-on practice on Google Cloud Platform, along with some really cool Google Cloud goodies on completion of at least one track!🌟 There will be two tracks available for completion over a period of 30 days (1st - 31st October), with 12 skill badges.\nThe tracks are:-\n1. Cloud Engineering Track\n2. Data Science & Machine Learning Track\n\nOur facilitator for this program is Ritesh Prasad Singh! To see yourself on the leaderboard and know more about the program:- dscnsec.com/30daysofGC \n\nVisit the link below for more details and prize rules:-\n bit.ly/gccc-site",
+        ""
     ],
     "past_date": [
-        "20th May 2021",
-        "25th December 2021"
+        "2020-10-11",
+        ""
     ],
     "past_time": [
-        "9 AM to 12 Noon",
-        "10 AM to 1 PM"
+        "18:00 - 19:30",
+        ""
     ],
     "past_mode": [
-        "Online Webinar",
+        "Online",
         "Offline Mode"
     ],
     "past_location": [
-        "Google MEET",
+        "Youtube",
         "Kolkata"
     ],
     "past_speakers": [
@@ -36,15 +36,15 @@
         "Basic knowledge of HTML"
     ],
     "past_note": [
-        "NA",
+        "Event Link: https://dscnsec.com/events/30-days-of-gc",
         "Event can be delayed for half an hour due to traffic in the city."
     ],
     "past_reglink": [
-        "google/forms/fdgdeyde333d",
+        "https://dscnsec.com/events/30-days-of-gc",
         "google/forms/edeu3rt37gde"
     ],
     "past_lastreg": [
-        "10th Dec 2020",
+        "2020-10-01",
         "12th Aug 2020"
     ],
     "past_regstatus": [
@@ -52,7 +52,7 @@
         "Closed"
     ],
     "past_banner": [
-        "https://www.smartdatacollective.com/wp-content/uploads/2019/12/maching-learning-and-contract-management.jpg",
+        "https://raw.githubusercontent.com/dscnsec/resources/master/30daysofGC.png",
         "https://webdev.imgix.net/images/social.png?auto=format&fit=max&w=1200"
     ]
 }
